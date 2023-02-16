@@ -8,7 +8,7 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.codeultra</groupId>
+	<groupId>com.springbootboilerplate</groupId>
 	<artifactId>springboot-hibernate-flyway-sendgrid</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>codeultraRESTful</name>
